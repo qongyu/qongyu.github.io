@@ -3,6 +3,27 @@
 
 
     <url>
+        <loc>http://www.zn69.xyz/tags/%E5%A4%A7%E7%A7%80%E8%BD%AF%E4%BB%B6/</loc>
+        <lastmod>2019-06-16T10:08:59.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zn69.xyz/tags/%E7%A6%8F%E5%88%A9app/</loc>
+        <lastmod>2019-06-16T10:08:59.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zn69.xyz/tags/%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/</loc>
+        <lastmod>2019-06-16T10:08:59.429Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://www.zn69.xyz/tags/Markdown/</loc>
         <lastmod>2019-06-16T06:13:05.344Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,27 +47,6 @@
     <url>
         <loc>http://www.zn69.xyz/tags/%E7%9C%8B%E7%89%87%E8%BD%AF%E4%BB%B6/</loc>
         <lastmod>2019-06-16T05:58:13.123Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zn69.xyz/tags/%E7%A6%8F%E5%88%A9app/</loc>
-        <lastmod>2019-06-16T05:58:13.123Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zn69.xyz/tags/%E5%A4%A7%E7%A7%80%E8%BD%AF%E4%BB%B6/</loc>
-        <lastmod>2019-06-16T05:52:21.651Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://www.zn69.xyz/tags/%E7%9B%B4%E6%92%AD%E8%BD%AF%E4%BB%B6/</loc>
-        <lastmod>2019-06-16T05:52:21.651Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
