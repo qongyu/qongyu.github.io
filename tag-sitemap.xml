@@ -52,13 +52,6 @@
     </url>
 
     <url>
-        <loc>http://www.zn69.xyz/tags/%E5%9B%BD%E4%BA%A7%E5%86%99%E7%9C%9F/</loc>
-        <lastmod>2019-06-17T21:14:19.682Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://www.zn69.xyz/tags/%E8%95%BE%E4%B8%9D%E6%8E%A7/</loc>
         <lastmod>2019-06-17T21:14:19.682Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -67,6 +60,13 @@
 
     <url>
         <loc>http://www.zn69.xyz/tags/%E7%81%B5%E5%BE%AE%E5%BE%AE/</loc>
+        <lastmod>2019-06-17T21:14:19.682Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://www.zn69.xyz/tags/%E5%9B%BD%E4%BA%A7%E5%86%99%E7%9C%9F/</loc>
         <lastmod>2019-06-17T21:14:19.682Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
