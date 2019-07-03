@@ -237,14 +237,14 @@ header .side-nav .mobile-head img {
 
 header .side-nav .mobile-head .logo-name {
     margin-top: -30px;
-    padding-left: 8px;
-    font-size: 2.0rem;
+    padding-left: 10px;
+    font-size: 1.5rem;
 }
 
 header .side-nav .mobile-head .logo-desc {
-    margin-top: -8px;
-    padding-left: 8px;
-    padding-bottom: 8px;
+    margin-top: -10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
     font-size: 0.8rem;
     line-height: 1.3rem;
     color: #e3e3e3;
@@ -291,7 +291,7 @@ header .side-nav .social-link {
 }
 
 .cover-btns a {
-    margin: 10px 0;
+    margin: 10px 15px;
     padding: 0 35px;
     height: 45px;
     line-height: 45px;
@@ -388,13 +388,13 @@ header .go-back i {
 .bg-cover .title {
     font-size: 4rem;
     font-weight: 700;
-    line-height: 1.5em;
+    line-height: 1.85em;
     margin-bottom: 20px;
     position: relative;
 }
 
 .bg-cover .description {
-    font-size: 1.15rem;
+    font-size: 1.25rem;
     font-weight: 300;
     line-height: 1.4em;
     color: #eee;
